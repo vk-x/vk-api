@@ -1,3 +1,5 @@
+# This project has been merged into [the vk-x monorepo](https://github.com/vk-x/vk-x)
+
 # vk-api — JavaScript Driver for vk.com API
 
 An alternative library for interacting with vk.com with solid and exceptionally convenient API.
